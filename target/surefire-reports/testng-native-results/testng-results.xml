@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-19T12:24:16 IST" name="Command line suite" finished-at="2020-06-19T12:24:16 IST" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2020-06-19T12:24:16 IST" name="Command line test" finished-at="2020-06-19T12:24:16 IST" duration-ms="104">
+      <class name="mavenjava.APITest">
+        <test-method signature="request()[pri:0, instance:mavenjava.APITest@5e955596]" started-at="2020-06-19T12:24:16 IST" name="request" finished-at="2020-06-19T12:24:16 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- request -->
+      </class> <!-- mavenjava.APITest -->
+      <class name="mavenjava.SelTest">
+        <test-method signature="browserauto()[pri:0, instance:mavenjava.SelTest@50de0926]" started-at="2020-06-19T12:24:16 IST" name="browserauto" finished-at="2020-06-19T12:24:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserauto -->
+        <test-method signature="elements()[pri:0, instance:mavenjava.SelTest@50de0926]" started-at="2020-06-19T12:24:16 IST" name="elements" finished-at="2020-06-19T12:24:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elements -->
+      </class> <!-- mavenjava.SelTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
